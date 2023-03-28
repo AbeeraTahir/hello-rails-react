@@ -1,1 +1,0 @@
-json.text @greeting.message
